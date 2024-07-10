@@ -1,0 +1,59 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 101,
+  "boxShadow": "none",
+  "displayName": "Audio Recorder",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "hideCard": false,
+  "iconColor": "white",
+  "iconSVG": "https://appcdn.appsmith.com/static/media/icon.dedfcdc0330ddacb5c0398af2acd10ae.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "evq0v39wg6",
+  "leftColumn": 2,
+  "minWidth": 450,
+  "mobileBottomRow": 101,
+  "mobileLeftColumn": 10,
+  "mobileRightColumn": 26,
+  "mobileTopRow": 94,
+  "needsErrorInfo": false,
+  "onCanvasUI": {
+    "disableParentSelection": false,
+    "focusBGCSSVar": "--on-canvas-ui-widget-focus",
+    "focusColorCSSVar": "--on-canvas-ui-widget-selection",
+    "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
+    "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
+  },
+  "originalBottomRow": 101,
+  "originalTopRow": 94,
+  "parentColumnSpace": 13.96875,
+  "parentId": "0w2do5ndcf",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 26,
+  "searchTags": [
+    "sound recorder",
+    "voice recorder"
+  ],
+  "tags": [
+    "External"
+  ],
+  "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.4513fbf2818c6a93ab8300818615fcec.svg",
+  "topRow": 94,
+  "type": "AUDIO_RECORDER_WIDGET",
+  "version": 1,
+  "widgetId": "s0k3x3zxui",
+  "widgetName": "AudioRecorder1"
+}
